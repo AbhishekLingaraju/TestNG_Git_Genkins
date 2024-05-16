@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-16T13:39:55Z" name="Suite" finished-at="2024-05-16T13:40:04Z" duration-ms="9749">
+    <groups>
+    </groups>
+    <test started-at="2024-05-16T13:39:55Z" name="Test" finished-at="2024-05-16T13:40:04Z" duration-ms="9749">
+      <class name="organization.FirstClass">
+        <test-method is-config="true" signature="launch()[pri:0, instance:organization.FirstClass@2421cc4]" started-at="2024-05-16T13:39:55Z" name="launch" finished-at="2024-05-16T13:40:00Z" duration-ms="5710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="appBasic()[pri:0, instance:organization.FirstClass@2421cc4]" started-at="2024-05-16T13:40:00Z" name="appBasic" finished-at="2024-05-16T13:40:04Z" duration-ms="4023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appBasic -->
+      </class> <!-- organization.FirstClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
